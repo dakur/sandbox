@@ -44,6 +44,6 @@
 	},
 	"minimum-stability": "stable",
 	"scripts": {
-		"phpstan": "phpstan analyse --configuration phpstan.neon app bin www"
+		"phpstan": "phpstan analyse"
 	}
 }
